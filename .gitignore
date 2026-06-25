@@ -1,0 +1,27 @@
+# MATLAB generated files
+*.asv
+*.m~
+slprj/
+
+# Claude Code local settings
+.claude/
+
+# Simulink autosave
+*.autosave
+
+# MATLAB code generation
+codegen/
+
+# MATLAB app designer
+*.mlappinstall
+
+# OS generated files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+.DS_Store
+
+# Editor files
+*.swp
+*.swo
+*~
